@@ -1,0 +1,56 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.main-section {
+  background-image: url("https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/e56a1c2f634f59a7a6e43f7c/pexels-photo-9392381.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.h-100-vh {
+  height: 100%;
+  min-height: 100vh;
+}
+.nav-link {
+  font-size: 1.2em;
+  font-weight: bold !important;
+}
+
+.nav-link:hover {
+  color: #ee9601 !important;
+}
+
+.semi-transparent {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.sideCover {
+  background-image: url("https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/f55e72a6610f572cb31a47fa/pexels-photo-6474449.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+.bg-Light {
+  background-color: #f2f2f2;
+}
+.list li {
+  font-size: 1.3em;
+}
+.list li::marker {
+  color: #ee9601;
+}
+.grid-img1 {
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/c1d380300c5153ab8cd2d608/worker-with-hard-hat-hammer-building-house_23-2148748857.jpg");
+  background-position: center;
+}
+.grid-img2 {
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/5a08eeeb06d15aaa84bc7d79/construction-worker-sanding-down-wood-piece_23-2148748861.jpg");
+  background-position: center;
+}
+.grid-img3 {
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/2f7cb96f03e15d41903a1787/carpenter-man-working-wood_23-2148748789.jpg");
+  background-position: center;
+}
+.bg-Cover {
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/71745c0836905d50808faa4e/fdrt.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
